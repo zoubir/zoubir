@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zoubir
 - 👀 I’m interested in Java Web / Mobile dev
 - 🌱 I’m currently learning kubernetes
-- 💞️ I’m looking to collaborate on all iot project
+- 💞️ I’m looking to collaborate on all IOT project
 - 📫 How to reach me zizou_medj@hotmail.com
 
 <!---
